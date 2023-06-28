@@ -1,7 +1,7 @@
 # KPMG-Virtual-Internship
 The KPMG Data Analytics Virtual Internship is designed to help you gain a practical insight into the work we do at KPMG and it is an opportunity for you to build your career skills and experience.
 [Certificate](https://github.com/NagaDurgaJaswanth/KPMG-Data-Analytics-Virtual-Internship/blob/main/_KPMG%20AU_completion_certificate.pdf)
-
+<img src = "_KPMG AU_completion_certificate_page-0001.jpg">
 # Approach for New Customer Data analysis
 This project aims to analyze the data of new customers based on several factors such as age distribution, bike purchase, job industry, and number of cars owned. The following findings were discovered:
 
